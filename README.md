@@ -1,3 +1,4 @@
 To run this application:
-Open terminal
-Run npm test
+1: Open terminal
+2: Run "npm install --save-dev jest"
+3: Run "mpn test"
